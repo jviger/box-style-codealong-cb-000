@@ -33,6 +33,10 @@ figcaption {
   
 }
 
+.border-right {
+  border-right: 1px dotted #ccc;
+}
+
 /*////////// BACKGROUNDS //////////*/
 
 
