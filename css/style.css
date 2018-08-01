@@ -216,6 +216,7 @@ header {
   top: 0;
   width: 100%;
   z-index: 2;
+  border-bottom: 1px solid #ccc;
 }
 nav a:hover {
   background: rgb(0, 0, 0); /* Old browsers */
