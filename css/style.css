@@ -209,7 +209,7 @@ img, video, audio, iframe, table, form {
 
 /*////////// NAVBAR //////////*/
 
-.navbar-hover {
+.navbar:hover {
   background: rgb(0, 0, 0); /* Old browsers */
 background: -moz-linear-gradient(
   top,
