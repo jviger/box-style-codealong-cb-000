@@ -212,7 +212,7 @@ header {
 
 /*////////// NAVBAR //////////*/
 
-nav:hover {
+nav a:hover {
   background: rgb(0, 0, 0); /* Old browsers */
 background: -moz-linear-gradient(
   top,
