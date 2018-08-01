@@ -219,6 +219,13 @@ header {
   border-bottom: 1px solid #ccc;
   text-align: center;
 }
+#navbar nav {
+  border-left: 1px solid #ccc;
+}
+#navbar nav a {
+  display: inline-block;
+  width: 16.6666667%;
+}
 nav a:hover {
   background: rgb(0, 0, 0); /* Old browsers */
 background: -moz-linear-gradient(
