@@ -334,7 +334,9 @@ section {
 
 /*////////// DETAILS //////////*/
 
-
+div#details {
+  border-top: 1px white solid;
+}
 
 #details div {
   height: 221px;
